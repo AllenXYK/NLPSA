@@ -1,0 +1,5 @@
+20字节毁灭地球
+main｛
+kill earth
+｝
+return 0
